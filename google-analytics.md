@@ -21,7 +21,7 @@ Marketing basic purchase funnel
   Lead Generation - use ananlytics to collect user information that get distributed to sales teams on potential leads
 </p>
 
-### How Google analytics works
+#### How Google analytics works
 
 Essentially a platform that collects data, and compiles into reports
 
@@ -41,4 +41,29 @@ Essentially a platform that collects data, and compiles into reports
 
 <p>
   Each session aggregates up into reports, which is initially filtered by device, or browser, but these are configurable via settings, and filters (Country, or remove internal company traffic). <b>NB</b> Once data is stored it cannot be changed - DB perms INSERT, and SELECT only. Once processing has occurred it becomes available as reports.  
+</p>
+
+#### Google analytics setup
+
+Organisation -> Account -> Property -> View <br />
+Single organisation<br />
+Multiple accounts, properties, and views<br />
+Large business - generally multiple accounts<br />
+Medium to small business - generally one account<br />
+
+**Goals**
+Ways of tracking business objectives, or conversions
+
+**Views**
+1. Do NOT include past data (creation date onwards only)
+2. Can be restored if deleted by an admin for a limited time only
+
+**Permissions**
+Top down: Account -> Property -> View
+1. Manage users: Add/remove user access
+2. Edit: Change config settings
+3. Collaborate: Share data slices, or settings
+4. Read and analyze: Read only access to data - can create new dashboards
+<p>
+  <b>NB</b> Be careful on how you setup accounts, properties, and views. Can impact data collection. Align properties, and views with overall business structure
 </p>
