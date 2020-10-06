@@ -67,3 +67,11 @@ Top down: Account -> Property -> View
 <p>
   <b>NB</b> Be careful on how you setup accounts, properties, and views. Can impact data collection. Align properties, and views with overall business structure
 </p>
+
+#### How to set up views with filters
+
+**NB** View filters are applied in order that they are added to a view - be mindful here.<br />
+Good idea to have the following views
+1. Raw Data (All Website data (raw unfiltered stuff))
+2. Test View (Use this to apply filters, as a test of process before applying to Main View)
+3. Main View (Live production reporting with any filters as applied from Test View)
