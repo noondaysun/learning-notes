@@ -75,3 +75,18 @@ Good idea to have the following views
 1. Raw Data (All Website data (raw unfiltered stuff))
 2. Test View (Use this to apply filters, as a test of process before applying to Main View)
 3. Main View (Live production reporting with any filters as applied from Test View)
+
+
+### The Google Analytics Interface
+
+#### Navigating Google analytics
+1. Real Time - live user behaviour
+2. Audience - characteristics about your users (age, gender, location, engagement, etc.)
+3. Acquisition - what brought user to site
+  * Organic (unpaid search)
+  * Cost per Click (paid search)
+  * Referral
+  * Social (eg Facebook)
+  * Other (low volume)
+4. Behaviour - what pages were interacted with (landing|exit pages etc.)
+5. Conversion - track website goals based on buisness objectives
