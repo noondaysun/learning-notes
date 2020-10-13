@@ -90,3 +90,10 @@ Good idea to have the following views
   * Other (low volume)
 4. Behaviour - what pages were interacted with (landing|exit pages etc.)
 5. Conversion - track website goals based on buisness objectives
+
+#### Understanding overview reports
+Provide high level overview in one place<br />
+Audience overview - aggregate audience metrics (bounce rate, avg. session length, no. of pages visited)<br />
+Date range selector - affects all reports in current view<br />
+Audience overview line graph is number of users in date range<br />
+Metrics > Dimensions - a dimension is finer grained than a metric - eg colour of shirt sold
