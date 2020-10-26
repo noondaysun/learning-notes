@@ -97,3 +97,16 @@ Audience overview - aggregate audience metrics (bounce rate, avg. session length
 Date range selector - affects all reports in current view<br />
 Audience overview line graph is number of users in date range<br />
 Metrics > Dimensions - a dimension is finer grained than a metric - eg colour of shirt sold
+
+#### Understanding full reports
+- Summary view: Selected dimension split by Acquisition, Behaviour, and Conversion - simple to interpret as part of basic marketing funnel
+- Site usage: Behaviour metrics like user, pages per session, and session duration
+- Goals: Tracked goals. Only displayed if goals set up
+- Ecommerce: Transaction metrics, if ecommerce set up in GA
+
+Available views
+- Data table (default) - tabular data
+- Pie chart -compare percentage of whole
+- Performance - side by side comparison (bar chart)
+- Comparison view - red/green perfomance indicator v site average (bar chart)
+- Pivot - pivot table (rows and columns can show different dimensions) eg bounce rate by country
