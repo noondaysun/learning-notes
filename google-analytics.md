@@ -116,6 +116,7 @@ Available views
 - Export: Save to PC in different file formats (csv|pdf)
 - Share: Email report to x@y.tld. Can be scheduled
 - Edit: Customize report content (metric groups|filters|additional views). Adds new report under Customization
+
 Badge next to report name allows you to change sampling rate. Can be an estimate rather than true reflection based on data set size. Options are:
 - Faster response (estimate based)
 - Greater precision (uses data, but takes longer to process)
