@@ -120,3 +120,25 @@ Available views
 Badge next to report name allows you to change sampling rate. Can be an estimate rather than true reflection based on data set size. Options are:
 - Faster response (estimate based)
 - Greater precision (uses data, but takes longer to process)
+
+#### How to setup dashboards and shortcuts
+Dashboards, and shortcuts are a quick way to navigate to a specific report. 
+
+Dashboards are flexible, and can be used for different things. You could gather all important business metrics into a single summary dashboard as an example
+
+Customiztion -> Dashboards -> Create<br />
+Split by 
+- Standard/Real-time. (Metric, Timeline, Geomap, Table, Pie (standard only), Bar (standard only))
+- Show metric
+- Filter metric, if needed
+- Report link
+
+Dashboards split into Private, and Shared
+- Private - only visible to you inside that view (Max 20)
+- Shared - can be seen by anyone that has access to that view (Max 50)
+
+Shared dashboards can be modified by others - it makes a private copy for the modifier. Original shared dashboard cannot be modified by anyone other than the creator.
+
+Sharing
+- Share template link - does **not** share any analytics data. Provides link to your template
+- Share in Solutions Gallery - Enable more public sharing of template
